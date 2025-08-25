@@ -1,3 +1,4 @@
-export function great(name) {
+function greet(name) {
     return `Hello, ${name}!!`;
 }
+module.exports = greet;
