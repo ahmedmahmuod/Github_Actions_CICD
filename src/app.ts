@@ -1,3 +1,3 @@
 export function great(name: string) {
-    return `Hello, ${name}!`;
+    return `Hello, ${name}!!`;
 }
